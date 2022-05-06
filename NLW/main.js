@@ -1,4 +1,3 @@
-~~~javascript
 
 window.addEventListener('scroll', onScroll)
 
@@ -46,5 +45,3 @@ ScrollReveal({
   #about, 
   #about header, 
   #about .content`)
-
-~~~
