@@ -1,3 +1,4 @@
+~~~javascript
 
 window.addEventListener('scroll', onScroll)
 
